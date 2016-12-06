@@ -5,7 +5,7 @@ react-decorator-template
 	used by react-build-tools (https://github.com/wisdomofgod/react-build-tools)
 	more reactB method can be understood in react-build-tools github
 
-	first: `npm install -g react-build`
+	first: `npm install -g react-build-tools`
 	second: `reactB init`
 
 ###Other usage
